@@ -1,0 +1,5 @@
+yarn knex migrate:make <nome> => cria migration
+
+yarn knex migrate:latest => executa migrations
+
+
